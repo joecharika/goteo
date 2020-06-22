@@ -2,7 +2,7 @@
 
     "require": {
 
-        "foil/foil": "~0.6",
+        "foil/foil": "0.*",
 
         "tpyo/amazon-s3-php-class": "~0.5",
 

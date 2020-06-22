@@ -12,3 +12,4 @@ ServerSignature Off
     # For production
     RewriteRule .* index.php?%{QUERY_STRING}
 </IfModule>
+
